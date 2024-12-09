@@ -293,7 +293,7 @@ class Shop {
 
         System.out.println("Your total for this order: INR " + totalBill);
 
-        // Take customer details and validate
+      
         System.out.print("Enter your name: ");
         String name = validateNameInput();
 
